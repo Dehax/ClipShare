@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClipShare</string>
+    <string name="main_menu_settings">Settings</string>
+    <string name="notification_text_copied">Text was copied!</string>
+    <string name="main_launch_service_label">Click button to start service!</string>
+    <string name="main_toggle_on_text">On</string>
+    <string name="main_toggle_off_text">Off</string>
+</resources>

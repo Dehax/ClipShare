@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClipShare</string>
+    <string name="main_launch_service_label">Нажмите кнопку для запуска сервиса!</string>
+    <string name="main_menu_settings">Настройки</string>
+    <string name="notification_text_copied">Текст был скопирован!</string>
+    <string name="main_toggle_off_text">Выкл</string>
+    <string name="main_toggle_on_text">Вкл</string>
+</resources>
